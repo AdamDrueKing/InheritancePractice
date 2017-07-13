@@ -31,6 +31,9 @@ namespace InheritancePractice
             planeOne.Move();
             Console.WriteLine("Aircraft " + planeOne.GetDistanceTraveled());
 
+
+            Appliances stove = new Appliances( )
+
         }
     }
 }
