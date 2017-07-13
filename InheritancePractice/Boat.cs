@@ -12,6 +12,10 @@ namespace InheritancePractice
         private double waterDrag;
 
         //constructor
+        public Boat()
+        {
+
+        }
         public Boat(int seats, int carryingCapacity, string color, double movementSpeed, double waterDrag)
         {
             this.seats = seats;
